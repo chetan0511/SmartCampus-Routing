@@ -1,4 +1,6 @@
-# SmartCampus-Routing#include <stdio.h>
+# SmartCampus-Routing
+
+#include <stdio.h>
 #include <string.h>
 
 #define MAX 20
